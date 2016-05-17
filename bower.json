@@ -1,0 +1,10 @@
+{
+  "name": "bespoke-PLUGIN_NAME",
+  "main": "./dist/bespoke-PLUGIN_NAME.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0"
+  }
+}
